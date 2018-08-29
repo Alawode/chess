@@ -13,7 +13,7 @@ import javafx.collections.ObservableList;
 
 /**
  *
- * @author Cheryl
+ * @author emmanuelalawode
  */
 public class ChessBoard {
     

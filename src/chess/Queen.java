@@ -7,7 +7,7 @@ package chess;
 
 /**
  *
- * @author Cheryl
+ * @author emmanuelalawode
  */
 public class Queen extends Piece {
     

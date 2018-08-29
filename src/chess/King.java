@@ -7,7 +7,7 @@ package chess;
 
 /**
  *
- * @author Cheryl
+ * @author emmanuelalawode
  */
 public class King extends Piece {
     public King(ChessColour colour) {

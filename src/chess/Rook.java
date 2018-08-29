@@ -7,7 +7,7 @@ package chess;
 
 /**
  *
- * @author Cheryl
+ * @author emmanuelalawode
  */
 public class Rook extends Piece {
     public Rook(ChessColour colour) {

@@ -25,9 +25,9 @@ import java.util.ArrayList;
 
 /**
  *
- * @author codygibson
+ * @author emmanuelalawode
  */
-public class Assign4 extends Application implements ListChangeListener {
+public class Project extends Application implements ListChangeListener {
     private ChessBoard board;
     private Button whiteTakenSquare[] = new Button[16] ;
     private Button blackTakenSquare[] = new Button[16] ;

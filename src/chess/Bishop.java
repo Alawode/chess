@@ -7,7 +7,7 @@ package chess;
 
 /**
  *
- * @author Cheryl
+ * @author emmanuelalawode
  */
 public class Bishop extends Piece {
     public Bishop(ChessColour colour) {

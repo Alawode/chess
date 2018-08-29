@@ -7,6 +7,6 @@ package chess;
 
 /**
  *
- * @author Cheryl
+ * @author emmanuelalawode
  */
 public enum ChessColour { WHITE, BLACK }

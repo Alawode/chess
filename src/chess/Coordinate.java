@@ -7,7 +7,7 @@ package chess;
 
 /**
  *
- * @author Cheryl
+ * @author emmanuelalawode
  */
 public class Coordinate {
     private int row;   // 0 is the bottom horizontal row
