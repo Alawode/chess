@@ -1,13 +1,13 @@
 # chess
 ![alt text](https://github.com/Alawode/chess/blob/master/src/chess/images/display.png)
 
-# Introduction 
+## Introduction 
 
   I built a finctioning chess game using Java and JavaFx. This chess game has all the functionalies of a usual check game,
 all pieces are restricted to the permitted moves. All the taken pieces appear on the left or rught hand side depending on
 the color of te piece.
 
-# Running Chess locally
+## Running Chess locally
   In oder to run this app locally you first need to clone this repository. 
   
 ### Running on the command line
