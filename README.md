@@ -3,7 +3,7 @@
 
 ## Introduction 
 
-  I built a functioning chess game using Java and JavaFx. This chess game has all the functionalies of a usual check game,
+  I built a functioning chess game using Java and JavaFx. This chess game has all the functionalies of a usual chess game,
 all pieces are restricted to their permitted moves. All the taken pieces appear on the left or rught hand side depending on
 the color of te piece.
 
